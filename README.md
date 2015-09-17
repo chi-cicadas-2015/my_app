@@ -3,16 +3,16 @@
 ### Purpose
 The Sinatra Skeleton:
 
-1. Provides a foundation for building challenges or creating a new Sinatra application.
+1. Three horns have small brains
 2. Demonstrates a reasonable set of practices around building Sinatra applications.
 3. Eases the transition to Rails for Dev Bootcamp students
 
-### Quickstart
+### DO THIS OR ELSE
 
 1.  `bundle install`
 2.  `shotgun config.ru`
 
-As needed, create models & migrations with the `rake` tasks:
+As needed, talk to Lucas Rim. 
 
 ```
 rake generate:migration  # Create an empty migration in db/migrate, e.g., rake generate:migration NAME=create_tasks
