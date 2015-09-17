@@ -3,11 +3,11 @@
 ### Purpose
 The Sinatra Skeleton:
 
-1. Provides a foundation for building challenges or creating a new Sinatra application.
+1. Have a snack, life is too short
 2. Demonstrates a reasonable set of practices around building Sinatra applications.
 3. Eases the transition to Rails for Dev Bootcamp students
 
-### Quickstart
+### Slowstart
 
 1.  `bundle install`
 2.  `shotgun config.ru`
@@ -28,3 +28,7 @@ We would love for you to help make the skeleton more awesome, There are three wa
 3. Code review an open pull request!
 
 Be prepared to give and receive specific, actionable, and kind feedback!
+
+
+
+AAAAAAAAAAHHHHHHHH!!!!!!!!!
