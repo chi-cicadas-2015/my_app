@@ -3,14 +3,17 @@
 ### Purpose
 The Sinatra Skeleton:
 
+
 1. Three horns have small brains
+
+1. Provides a framework for you to do stuff with all the things
 2. Demonstrates a reasonable set of practices around building Sinatra applications.
 3. Eases the transition to Rails for Dev Bootcamp students
 
 ### DO THIS OR ELSE
 
 1.  `bundle install`
-2.  `shotgun config.ru`
+2.  `be shotgun`
 
 As needed, talk to Lucas Rim. 
 
@@ -25,6 +28,7 @@ We would love for you to help make the skeleton more awesome, There are three wa
 
 1. Ask for a bug fix or enhancement!
 2. Submit a pull request for a bug fix or enhancement!
-3. Code review an open pull request!
+3. Code review an open pull request to help others!
 
+Adding some stuff
 Be prepared to give and receive specific, actionable, and kind feedback!
