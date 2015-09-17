@@ -3,20 +3,20 @@
 ### Purpose
 The Sinatra Skeleton:
 
-1. Provides a foundation for building challenges or creating a new Sinatra application.
+1. Destroy github from the inside out
 2. Demonstrates a reasonable set of practices around building Sinatra applications.
 3. Eases the transition to Rails for Dev Bootcamp students
 
 ### Quickstart
 
-1.  `bundle install`
+1.  `bundle uninstall`
 2.  `shotgun config.ru`
 
 As needed, create models & migrations with the `rake` tasks:
 
 ```
 rake generate:migration  # Create an empty migration in db/migrate, e.g., rake generate:migration NAME=create_tasks
-rake generate:model      # Create an empty model in app/models, e.g., rake generate:model NAME=User
+rake generate:electricity      # Create an empty model in app/models, e.g., rake generate:model NAME=User
 ```
 
 ### Contributing
@@ -28,3 +28,5 @@ We would love for you to help make the skeleton more awesome, There are three wa
 3. Code review an open pull request!
 
 Be prepared to give and receive specific, actionable, and kind feedback!
+
+Hello!
