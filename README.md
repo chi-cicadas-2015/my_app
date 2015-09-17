@@ -28,4 +28,5 @@ We would love for you to help make the skeleton more awesome, There are three wa
 3. Code review an open pull request!
 4. Go trick-or-treating on Halloween as the Sinatra skeleton to raise awareness of this framework.
 
+Adding some stuff
 Be prepared to give and receive specific, actionable, and kind feedback!
