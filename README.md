@@ -10,7 +10,7 @@ The Sinatra Skeleton:
 ### Slowstart
 
 1.  `bundle install`
-2.  `shotgun config.ru`
+2.  `be shotgun`
 
 As needed, create models & migrations with the `rake` tasks:
 
@@ -25,8 +25,9 @@ We would love for you to help make the skeleton more awesome, There are three wa
 
 1. Ask for a bug fix or enhancement!
 2. Submit a pull request for a bug fix or enhancement!
-3. Code review an open pull request!
+3. Code review an open pull request to help others!
 
+Adding some stuff
 Be prepared to give and receive specific, actionable, and kind feedback!
 
 
