@@ -2,7 +2,7 @@
 
 ### Purpose
 The Sinatra Skeleton:
-
+1. Have a snack, life is too short
 
 1. Three horns have small brains
 
@@ -12,23 +12,4 @@ The Sinatra Skeleton:
 
 ### DO THIS OR ELSE
 
-1.  `bundle install`
-2.  `be shotgun`
-
-As needed, talk to Lucas Rim. 
-
-```
-rake generate:migration  # Create an empty migration in db/migrate, e.g., rake generate:migration NAME=create_tasks
-rake generate:model      # Create an empty model in app/models, e.g., rake generate:model NAME=User
-```
-
-### Contributing
-
-We would love for you to help make the skeleton more awesome, There are three ways to contribute:
-
-1. Ask for a bug fix or enhancement!
-2. Submit a pull request for a bug fix or enhancement!
-3. Code review an open pull request to help others!
-
-Adding some stuff
-Be prepared to give and receive specific, actionable, and kind feedback!
+AAAAAAAAAAHHHHHHHH!!!!!!!!!
